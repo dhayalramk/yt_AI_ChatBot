@@ -11,8 +11,8 @@ Ensure you have the following installed:
 ## Installation & Setup
 1. **Clone the repository (if applicable)**
    ```sh
-   git clone <repo_url>
-   cd <repo_folder>
+   git clone https://github.com/BLUERAY94/yt_AI_ChatBot.git
+   cd yt_AI_ChatBot
    ```
 
 2. **Install dependencies**
@@ -31,9 +31,8 @@ Ensure you have the following installed:
 1. Open a terminal and navigate to the project directory.
 2. Run the Streamlit app:
    ```sh
-   streamlit run <filename>.py
+   streamlit run chatbot.py.py
    ```
-   *(Replace `<filename>.py` with the actual script name)*
 
 ## Key Features
 - Loads Groq API Key from `.env` file.
