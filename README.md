@@ -31,7 +31,7 @@ Ensure you have the following installed:
 1. Open a terminal and navigate to the project directory.
 2. Run the Streamlit app:
    ```sh
-   streamlit run chatbot.py.py
+   streamlit run chatbot.py
    ```
 
 ## Key Features
